@@ -1,21 +1,76 @@
-div #tit {
+#tit {
   font-family: Arial; 
   font-size: 10; 
   text-align: center; 
   color: black; 
   font: bold;
 }
-div #titul {
+
+#titul {
   font-family: Arial; 
   font-size: 12; 
   text-align: center; 
   color: black; 
   font: bold italic;
 }
-div #describe {font-family: Arial; font-size: 12; text-align: justify; color: black; padding: 4; font: bold}
-div #alumni {font-family: Arial; font-size: 12; text-align: right; color: #003300; padding: 5; font: italic}
-h1 #heading {font-family: Courier; font-size: 14; text-align: left; color: black; padding: 5; font: bold}
-div #text {font-family: Courier; font-size: 14; text-align: justify; color: black; padding: 5; font: normal}
-div #author {font-family: Courier; font-size: 12; text-align: right; color: black; padding: 5; font: bold italic}
-a #letters {font-family: Arial; font-size: 10; text-align: center; color: black; font: bold}
-a #letters:hover {font-family: Arial; font-size: 10; text-align: center; color: green; font: bold}
+
+#describe {
+  font-family: Arial; 
+  font-size: 12; 
+  text-align: justify; 
+  color: black; 
+  padding: 4; 
+  font: bold;
+}
+
+#alumni {
+  font-family: Arial; 
+  font-size: 12; 
+  text-align: right; 
+  color: #003300; 
+  padding: 5; 
+  font: italic;
+}
+
+#heading {
+  font-family: Courier; 
+  font-size: 14; 
+  text-align: left; 
+  color: black; 
+  padding: 5; 
+  font: bold;
+}
+
+#text {
+  font-family: Courier; 
+  font-size: 14; 
+  text-align: justify; 
+  color: black; 
+  padding: 5; 
+  font: normal;
+}
+
+#author {
+  font-family: Courier; 
+  font-size: 12; 
+  text-align: right; 
+  color: black; 
+  padding: 5; 
+  font: bold italic;
+}
+
+#letters {
+  font-family: Arial; 
+  font-size: 10; 
+  text-align: center; 
+  color: black; 
+  font: bold;
+}
+
+#letters:hover {
+  font-family: Arial; 
+  font-size: 10; 
+  text-align: center; 
+  color: green; 
+  font: bold;
+}
